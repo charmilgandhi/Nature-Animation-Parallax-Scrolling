@@ -13,3 +13,7 @@ Paste the CDN link in html:
 ```
 https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/gsap.min.js
 ```
+## How it looks
+![](media.gif)
+
+**View as website here: https://charmilgandhi.github.io/Nature-Animation-Parallax-Scrolling.io/**

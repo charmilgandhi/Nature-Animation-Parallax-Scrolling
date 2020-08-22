@@ -6,12 +6,10 @@ Compared to classic bitmapped image formats such as JPEG or PNG, SVG-format vect
 
 You can read more about the **SVG-Elements** [here](https://developer.mozilla.org/en-US/docs/Web/SVG).
 
-## Things Completed
+## GSAP
+**The GreenSock Animation Platform (GSAP)** animates anything JavaScript can touch like CSS properties, SVG, React, canvas, generic objects etc. and solves countless browser inconsistencies, all with blazing speed up to 20x faster than jQuery.
 
-|SVG of 3 different Scenes|
-|---|
-|CSS file|
-
-## Things to do further
-|JS file to add scroll animation|
-|----|
+Paste the CDN link in html: 
+```
+https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/gsap.min.js
+```
